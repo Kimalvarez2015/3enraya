@@ -1,0 +1,11 @@
+.divcontenedor{
+    margin: auto;
+    padding: 0%;
+    align-items: center;
+    height: 50%;
+    width: 20%;
+}
+
+label{
+    font-size: large;
+}
